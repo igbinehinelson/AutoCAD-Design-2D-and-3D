@@ -1,2 +1,2 @@
-# AutoCAD-Design-2D-and-3D
+# AutoCAD-Designs 2D
 2D Design
